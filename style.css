@@ -1,0 +1,30 @@
+body {
+  background-color: rgb(21, 20, 20);
+  color: white;
+}
+img {
+  width: 70px;
+}
+.emoji {
+  border-radius: 100px;
+  padding: 20px;
+  border: white 2px solid;
+  background-color: transparent;
+  margin-right: 20px;
+}
+.result,
+.score,
+.resetScore {
+  margin-top: 50px;
+}
+.resetScore,
+.autoplay {
+  width: 120px;
+  font-size: 15px;
+  padding: 10px 0;
+}
+.message-button button {
+  width: 70px;
+  font-size: 15px;
+  padding: 10px 0;
+}
